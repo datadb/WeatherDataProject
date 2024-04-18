@@ -1,1 +1,11 @@
 *.json
+/data/observe-the-data.ipynb
+/data/.ipynb_checkpoints
+/spark/jdk-11.0.2
+/spark/spark-3.3.2-bin-hadoop3
+/spark/.bashrc
+/spark/google-cloud-sdk
+/google-cloud-sdk
+/spark/.ipynb_checkpoints
+/spark/lib
+/spark
