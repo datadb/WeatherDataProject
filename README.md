@@ -67,7 +67,9 @@
 
 ## @ looker studio
 #### create a datasource from the report table
-#### create your visualisations
+#### create charts
+#### https://lookerstudio.google.com/s/kTOjaks-pu4
+
 
 ### do not forget to
 ### terraform destroy
